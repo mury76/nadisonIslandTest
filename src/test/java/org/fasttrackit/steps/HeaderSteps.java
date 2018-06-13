@@ -4,8 +4,6 @@ import org.fasttrackit.DriverFactory;
 import org.fasttrackit.webviews.Header;
 import org.openqa.selenium.support.PageFactory;
 
-import java.sql.Driver;
-
 public class HeaderSteps {
 
     public void search (String keyword) {
